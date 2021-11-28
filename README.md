@@ -23,15 +23,11 @@
 <!--<a href="https://medium.com/@lenayoungydq">
   <img align="left" alt="Danqing Yang Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />-->
 </a>
-<br/><br/>
 <p align="center">
 </p>
-<br/><br/>
 <!--
 **DanqingYANG/DanqingYANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
